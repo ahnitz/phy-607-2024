@@ -4,8 +4,6 @@
 1. links for git useage
    1. https://rogerdudler.github.io/git-guide/
    2. https://www.pythonguis.com/tutorials/git-github-python/#checking-the-status-of-our-project
-   3. [Homework]
-       * Create a github account and send me your github name via slack
 
 2. Python Walkthrough outline
    1. the python interpreter
@@ -22,6 +20,10 @@
 3. Links for python
   * Tutorials: https://docs.python.org/3/tutorial/index.html
   * Style guide: https://peps.python.org/pep-0008/
+
+4. [Homework]
+  * Read the guides on github useage and skim the official python tutorials
+  * Create a github account and send me your github name via slack
 
 ________________
 
