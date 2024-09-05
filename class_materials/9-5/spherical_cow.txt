@@ -1,0 +1,25 @@
+In class assignment: Falling Cow Simulator
+
+
+A spherical cow with a mass of 1000 kg has fallen off a cliff (or was it pushed?). Simulate its motion under gravity and wind resistance for arbitrary initial conditions and air viscosity.
+
+
+1. Write a single program which calls several sub functions. At the top of the program, you should set initial conditions. Make no assumptions about the value of the initial conditions (except that their values are numbers of the appropriate type).
+2. The program should start at time=0 and progress in fixed time steps until the cow reaches the ground. Use a coordinate system where the ground is at a height of 0. You should assume a two-dimensional Universe (e.g. with an x and y position).
+3. The following functions should be written and then used by the top-level program
+   1. a function that takes in the cow’s current position and velocity vector and returns the total force vector. Assume only gravity (near the earth’s surface) and wind resistance act on the cow. You may assume magnitude of the wind resistance takes the form constant * v^2, where the constant should be selectable. Assume the gravitational acceleration is 9.8 m/s/s and that all units are SI.
+   2. A function which takes the cow’s current position, velocity, and the acting force, and returns a new position and velocity some *small* time later. The time step size should also be an input to the function.
+   3. A function to calculate the potential, kinetic and total energy at a given instance.
+4. Form groups of 2-3. Agree on how to divide the work and define  the interfaces / API of each function. It may help to write the english-language pseudocode before beginning implementation.
+5. Create a single repository for your group’s code on github and give everyone in the group write access.
+   1. Each person should clone this repository and make changes / commits locally first. Then their changes should be pushed to the remote repository on github.
+      1. Make sure to resolve any merge conflicts before you push.
+6. (bonus) plot the position, velocity, or energy as a function of time
+   1. hint: use matplotlib
+
+
+Questions:
+1. What are the conserved quanities of this physicsal system? Is energy conserved as a function of time?
+2. How does the trajectory change if you change the time step? What about as you make the time step approach zero?
+3. How does your trajectory compare to the analytic solution if you set air resistance to zero?
+
