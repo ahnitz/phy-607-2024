@@ -7,17 +7,21 @@
    * plotting
    
 * spherical cow 
-   * produce standard output format
-       * Assume vx = 1 m/2 and vy = 100 m/s, drag = 0, x0=0, y0=1000
+   * drag-free case
+       * Assume vx = 1 m/s and vy = 100 m/s, drag = 0, x0=0, y0=1000
        * for dt = .001
        * write a file that contains three columns, space separated
            * time position_x position_y
            * post the file to slack for your group
-   * plot x vs y position for the entire trejectory
-       * plot the analytic prediction for the trajectory
-       * do they agree?
-   * Plot the kinetic, potential, and total energy.
-       * Is the total energy conserved?
+       * plot x vs y position for the entire trajectory
+           * work out and plot the analytic prediction for the trajectory
+           * do they agree?
+       * Plot the kinetic, potential, and total energy.
+           * Is the total energy conserved?
+   * air resistance
+       * set the drag coefficient to 4
+       * Are there conserved quantities? Are there any important limits?
+       * Plot the trajectory and post the corresponding trajectory file.
 
 * Python Style guide
    * https://realpython.com/python-pep8/
