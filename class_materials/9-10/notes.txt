@@ -1,5 +1,6 @@
 * Git continued
    * resolving merge conflicts
+   * https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
 
 * python (general python reference and tutorials https://docs.python.org/3/tutorial/index.html)
    * modules
