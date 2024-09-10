@@ -19,7 +19,7 @@ A spherical cow with a mass of 1000 kg has fallen off a cliff (or was it pushed?
 
 
 Questions:
-1. What are the conserved quanities of this physicsal system? Is energy conserved as a function of time?
+1. What are the conserved quanities of this physical system? Is energy conserved as a function of time?
 2. How does the trajectory change if you change the time step? What about as you make the time step approach zero?
 3. How does your trajectory compare to the analytic solution if you set air resistance to zero?
 
