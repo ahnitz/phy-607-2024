@@ -1,0 +1,27 @@
+* More details on Project 1
+* numerical precision [pick up from last class]
+    * error example 1
+    * error analysis with numerical error (standard error propagation!)
+    * error example 2
+* how can you find resources on programming?
+    * https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
+    * documentation of libraries
+    * google / stackoverflow
+* Style guide
+    * pep 8 styles
+    * automatic formatters
+* python environments
+    * venv / conda
+* packages
+    * matplotlib / numpy / scipy
+* In class exercise
+    * implement a spring oscillator
+        * Choose your own initial condition (do not choose a case where no evolution occurs)
+        * Recall the force equation and substitute into your existing code
+    * try the euler explicit, implicit, and symplectic forms
+    * implement a second order runge kutte algorithm
+        * Two easy forms
+           * average of implicit / explicit
+           * trapezoidal rule
+                * https://en.wikipedia.org/wiki/Trapezoidal_rule_(differential_equations)
+    * compare the stability and accuracy of all techniques
