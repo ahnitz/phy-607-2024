@@ -18,8 +18,6 @@
     * implement a spring oscillator
         * Choose your own initial condition (do not choose a case where no evolution occurs)
         * Recall the force equation and substitute into your existing code
-    * try the euler explicit, implicit, and symplectic forms
-    * implement a second order runge kutte algorithm
-        * Two easy forms
-           * recall average of implicit / explicit
+    * try the euler explicit, and symplectic forms
     * compare the accuracy of all techniques
+    * (bonus) implement a second order runge kutte algorithm
