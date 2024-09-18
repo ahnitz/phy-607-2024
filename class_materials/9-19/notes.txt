@@ -1,0 +1,21 @@
+* More details on Project 1
+* numerical precision
+    * error example 1
+    * error analysis with numerical error (standard error propagation!)
+    * error example 2
+* python types
+* classes
+* packages
+    * matplotlib / numpy / scipy
+* (continued) In class exercise
+    * implement a spring oscillator
+        * Choose your own initial condition (do not choose a case where no evolution occurs)
+        * Recall the force equation and substitute into your existing code
+    * try the euler explicit, and symplectic forms
+    * compare the accuracy of all techniques
+    * (bonus) implement a second order runge kutte algorithm
+* Pending time: Plan pseudocode for high precision floating point object
+    * should include methods for +,-,*,/ and printing itself.
+    * Choose an algorithm where you can demonstrate the numerical precision
+      is a limiting factor for standard double precision floating point objects
+      and compare to your class.

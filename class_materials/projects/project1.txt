@@ -1,4 +1,4 @@
-# Project 1 Description
+# Project 1 Description [Due Sept 27th]
 
 In this project you will create a set of python modules that calculate the integral of 
 some Physics problem. This includes solving two physics problems. 
