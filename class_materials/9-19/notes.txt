@@ -13,6 +13,7 @@
         * Recall the force equation and substitute into your existing code
     * try the euler explicit, and symplectic forms
     * compare the accuracy of all techniques
+    * Post your comparison to the class slack channel
     * (bonus) implement a second order runge kutte algorithm
 * Pending time: Plan pseudocode for high precision floating point object
     * should include methods for +,-,*,/ and printing itself.

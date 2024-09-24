@@ -16,11 +16,7 @@
           * add / subtract / multiply / divide
           * built ontop of integers
           * use base 10
-          * The initilialization of your class should accept a regular float.
           * define a print() in scientific notation 
-    * high precision vector inherited from list
-          * (same methods as the floating point object)
-          * implement a sort method
     * Write an algorithm of your choice that exhibits the accumulation 
       of numerical error. Compare your class vs standard python floats. 
       Demonstrate that yours has achieved higher precision.

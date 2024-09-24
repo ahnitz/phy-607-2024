@@ -9,7 +9,9 @@
     * google / stackoverflow
 * Style guide
     * pep 8 styles
+        * https://peps.python.org/pep-0008/
     * automatic formatters
+       * black
 * python environments
     * venv / conda
 * packages
