@@ -1,0 +1,32 @@
+* python types continued
+    * tuples, dictionaries, lists
+    * numpy
+* packages
+* classes (https://docs.python.org/3/tutorial/classes.html)
+    * inheritence
+        * https://docs.python.org/3/tutorial/classes.html#inheritance
+    * common methods
+    * special methods
+        * operators
+        * https://docs.python.org/3/library/operator.html
+* [in class project] 
+    * In groups of 3-4 discuss how to implement the project and divide the
+      work among the group.
+    * high precision floating point object
+          * add / subtract / multiply / divide
+          * built ontop of integers
+          * use base 10
+          * The initilialization of your class should accept a regular float.
+          * define a print() in scientific notation 
+    * high precision vector inherited from list
+          * (same methods as the floating point object)
+          * implement a sort method
+    * Write an algorithm of your choice that exhibits the accumulation 
+      of numerical error. Compare your class vs standard python floats. 
+      Demonstrate that yours has achieved higher precision.
+* [next class ] 
+    * timing of functions
+    * profiling
+    * computational complexity 
+        * algorithmic choice
+    
