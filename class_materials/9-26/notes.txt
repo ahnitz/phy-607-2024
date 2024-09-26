@@ -1,0 +1,28 @@
+* Timing
+   * Use %timit in the python intepretor
+   * Time your script or algorithm that demonstrates your high-precision type
+* profiling
+   * https://docs.python.org/3/library/profile.html#module-cProfile
+* computational complexity
+   * time / space
+       * best / average / worst
+   * what is the computational complexity of common algorithms?
+   * sort algorithms
+        * bubble sort
+        * insertion sort
+        * merge sort
+        * bogo sort
+   * search
+* time complexity in python
+    * https://wiki.python.org/moin/TimeComplexity
+* [For next Tuesday]
+    * Update your high-precision float class with comparison operators
+    * Choose an algorithm of your choice
+       * Work out the time complexity of a naive implementation
+       * See if there are faster versions of the algorithm, what time complexity
+         has been achieved?
+       * Examples
+            * Fourier transform
+            * Matrix multiplication
+            * ....
+
