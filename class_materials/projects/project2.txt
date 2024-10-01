@@ -2,7 +2,7 @@
     * Timeline
         * By Oct 8, find a partner, agree on a project concept
           and submit a plan that includes (1) a description of the simulation
-          and (2) psuedocode of the main simulation program and (3) a plan for how
+          and (2) high-level psuedocode of the main simulation program and (3) a plan for how
           the work will be divided between the group members. This should
           include what modules need to be written, what the expected functions
           or classes are and what you expect them to do

@@ -7,8 +7,7 @@
     * Implement both a bubble sort and a merger sort
     * Split the implementation between the group
     * Before next class post a plot comparing the time it takes to sort
-      a list for both algorithms as a function of list length from 10^1 to 10^5
-      elements.
+      a list for both algorithms as a function of list length.
 * Monte-carlo simulations
 * numpy arrays
 * Random numbers
