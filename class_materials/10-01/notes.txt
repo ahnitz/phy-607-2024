@@ -1,0 +1,19 @@
+* Project 1 grades will be available Thursday
+* Example algorithms and their computational cost
+* time complexity in python
+    * https://wiki.python.org/moin/TimeComplexity
+* [in-class group work]
+    Implement sorting algorithm that works with your extended precision class.
+    * Implement both a bubble sort and a merger sort
+    * Split the implementation between the group
+    * Before next class post a plot comparing the time it takes to sort
+      a list for both algorithms as a function of list length from 10^1 to 10^5
+      elements.
+* Monte-carlo simulations
+* numpy arrays
+* Random numbers
+    * pseudorandom numbers
+    * drawing from specific distributions
+        * Using the inverse CDF
+        * Using rejection sampling
+* Project 2 is posted
