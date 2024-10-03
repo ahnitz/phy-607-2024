@@ -9,8 +9,7 @@
    * example of integration
 * [In class exercises]
    * try inverse CDF and rejection sampling with exponential function 
-     * compare using a normal or a quadratic function for rejection sampling
-       Which is more efficient?
+     * try with a uniform distribution
    * Monte-carlo integration
      * Circumference of an ellipse? a = 5, b = 2
     
