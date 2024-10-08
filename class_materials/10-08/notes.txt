@@ -7,3 +7,4 @@
         * https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
 * Monte carlo integration
     * importance sampling
+    * estimate the numerical uncertainty on your ellipse circumference calculation?
