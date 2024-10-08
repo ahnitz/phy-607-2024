@@ -1,0 +1,9 @@
+* Project 2 pre-assignment
+* Python things
+    * numpy
+        * https://numpy.org/devdocs/user/quickstart.html
+    * argument parsing
+    * packages/distributions
+        * https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+* Monte carlo integration
+    * importance sampling
