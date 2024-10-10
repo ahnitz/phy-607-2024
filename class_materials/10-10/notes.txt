@@ -1,0 +1,11 @@
+* Project 2 questions
+* Monte-carlo Integrals continued
+    * importance sampling
+* [in-class exercise] continued
+    * Statistical error in ellipse circumference calculation
+        * Plot the statistical error as a function of sample size. It should
+          scale with N^(1/2).
+    * Approximation / Systematic Error
+        * Plot the approximation error as a function of the annulus width
+* Project 2 breakout
+    * Work with your groups to plan out your projects and begin any work.
