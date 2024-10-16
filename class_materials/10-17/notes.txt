@@ -1,0 +1,23 @@
+* project 2 questions
+* importance sampling
+   * further derivation
+   * variance reduction
+* in-class exercise
+   * For both an exponential and a function of choice
+      * Integrate using the monte-carlo method using a uniform proposal and
+        a function of choice with importance sampling.
+      * Compare the variance of the uniform proposal and your function of choice
+* Python things
+    * requirements.txt files
+    * review?
+* optimization [to continue next class]
+    * brute force / explicit exploration
+    * gradient descent
+        * how to calculate a gradient numerically?
+            * https://en.wikipedia.org/wiki/Finite_difference_coefficient#Forward_and_backward_finite_difference
+        * How to ensure convergence?
+    * newtons method
+    * failure modes?
+        * global vs local
+    * transforming to other problems
+    * nelder-mead (optional)
