@@ -1,0 +1,6 @@
+tqdm
+emcee
+corner
+notebook
+matplotlib
+h5py
