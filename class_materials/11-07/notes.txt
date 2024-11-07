@@ -4,7 +4,6 @@
             * https://emcee.readthedocs.io/en/stable/tutorials/autocorr/
     * how to compare models
     * discussion of failure modes
-* Code validation / identification
 * in-class work
     * use your likelihood function and priors (of choice)
     * write a 500 walker ensemble MCMC and run for 10000 iterations
@@ -13,3 +12,4 @@
         * Has the distribution converged?
         * What is the autocorrelation time for each of your parameters?
 * Project 3
+* identifying conceptual and technical errors
