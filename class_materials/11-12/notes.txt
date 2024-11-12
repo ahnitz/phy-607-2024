@@ -1,0 +1,15 @@
+* details of mcmc use
+    * burn-in / autocorrelation
+       * See discussion from emcee:
+            * https://emcee.readthedocs.io/en/stable/tutorials/autocorr/
+    * how to compare models
+    * discussion of failure modes
+* in-class work
+    * use your likelihood function and priors (of choice)
+    * write a 500 walker ensemble MCMC and run for 10000 iterations
+    * Plot the distribution of the walker positons after every 100 iterations.
+        * How does the distribution evolve?
+        * Has the distribution converged?
+        * What is the autocorrelation time for each of your parameters?
+* Project 3
+* identifying conceptual and technical errors
