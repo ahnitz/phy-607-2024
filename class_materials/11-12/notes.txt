@@ -11,5 +11,5 @@
         * How does the distribution evolve?
         * Has the distribution converged?
         * What is the autocorrelation time for each of your parameters?
-* Project 3
+    * Run your model with [emcee]
 * identifying conceptual and technical errors
